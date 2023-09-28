@@ -2,7 +2,7 @@
 # DIO-Santander-Bootcamp-2023
 
 
-# resposta 3 :
+# Resposta 3 :
     Existe apena um valor nulo na tabela employee e o campo é nulo pois o empregado é um gerente. 
 
 # Resposta 4:      
